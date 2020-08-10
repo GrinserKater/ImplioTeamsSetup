@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplioTeamsSetup", "ImplioTeamsSetup\ImplioTeamsSetup.csproj", "{D48F3C74-F704-406D-97A2-E45B12AED79B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D48F3C74-F704-406D-97A2-E45B12AED79B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D48F3C74-F704-406D-97A2-E45B12AED79B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D48F3C74-F704-406D-97A2-E45B12AED79B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D48F3C74-F704-406D-97A2-E45B12AED79B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {544983AB-6F70-494E-A967-7902202D6CC3}
+	EndGlobalSection
+EndGlobal
